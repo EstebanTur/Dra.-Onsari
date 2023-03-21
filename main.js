@@ -81,7 +81,7 @@ header.addEventListener("touchstart", () => {
     vidriado = false;
   }
 });
-//Scroll y desaparicion del corazon
+//Scroll y desaparicion del corazonn
 
 mainDiv.addEventListener("touchmove", (e) => {
   circleContainer.style.transition = "opacity 0.5s";
