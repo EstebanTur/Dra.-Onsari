@@ -66,7 +66,7 @@ function reveal() {
 
 window.addEventListener("scroll", reveal);
 
-//Efecto vidrio al tocar el toggler
+//Efecto vidrio al tocar el togglerr
 let vidriado = false;
 header.addEventListener("touchstart", () => {
   console.log("hola");
